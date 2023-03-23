@@ -6,7 +6,7 @@ Come up with an idea for a database final project that will showcase what you ha
 
 ## Come up with a highlevel idea and update this readme before March 23, 2023.
 
-Idea:
+Idea: A video game management system for a game store. This would include being able to sort games by a variety of things including genre, franchise, publisher, and age rating. It would also allow users to see how many copies are in stock and on order. 
 
 ### Project Idea Title:
 
