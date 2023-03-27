@@ -10,7 +10,7 @@ Idea: A video game management system for a game store.
 
 ### Project Idea Title: Video Game Management System
 
-Details: This would include being able to sort games by a variety of things including genre, franchise, publisher, and age rating. It would also allow users to see how many copies are in stock and on order. 
+Details: This would include being able to sort games by a variety of things including genre, franchise, publisher, and age rating. It would also allow users to see how many copies are in stock and on order. There would also be user credentials that would allow users to access different parts of the program based on role. Admins could view a log of things that have happened in the program that staff and interns couldn't see. Interns couldn't edit items but staff and admin could. Etc. 
 
 ### Complete the project proposal and Database design (or at least your first rough draft) and upload a database diagram before March 27, 2023.
 
