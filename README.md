@@ -8,9 +8,9 @@ Come up with an idea for a database final project that will showcase what you ha
 
 Idea: A video game management system for a game store. This would include being able to sort games by a variety of things including genre, franchise, publisher, and age rating. It would also allow users to see how many copies are in stock and on order. 
 
-### Project Idea Title:
+### Project Idea Title: Video Game Management System
 
-Details:
+Details: 
 
 ### Complete the project proposal and Database design (or at least your first rough draft) and upload a database diagram before March 27, 2023.
 
