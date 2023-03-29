@@ -14,7 +14,7 @@ Details: This would include being able to sort games by a variety of things incl
 
 ### Complete the project proposal and Database design (or at least your first rough draft) and upload a database diagram before March 27, 2023.
 
-Diagram:
+Diagram: I have attached the diagram. Note it doesn't include all the join tables I would need for video games.
 
 # Some specific technologies you should consider adding to this project include:
 - Entity Framework Core
